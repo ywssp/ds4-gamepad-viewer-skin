@@ -1,25 +1,25 @@
 .edit.controller.ds4 {
-    background-image: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/base.svg);
+    background-image: url(https://ywssp.github.io/ds4-gamepad-viewer-skin/assets/base.svg);
 }
 
 .edit.controller {
-    background-image: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/base.svg);
+    background-image: url(https://ywssp.github.io/ds4-gamepad-viewer-skin/assets/base.svg);
 }
 
 .edit.face.ds4 {
-    background-image: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/face.svg);
+    background-image: url(https://ywssp.github.io/ds4-gamepad-viewer-skin/assets/face.svg);
 }
 
 .edit.face {
     position: absolute;
-    background-image: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/face.svg);
+    background-image: url(https://ywssp.github.io/ds4-gamepad-viewer-skin/assets/face.svg);
 }
 
 .edit.stick.ds4 {
-    background-image: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/sticks.svg);
+    background-image: url(https://ywssp.github.io/ds4-gamepad-viewer-skin/assets/sticks.svg);
 }
 
 .edit.stick {
     position: absolute;
-    background-image: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/sticks.svg);
+    background-image: url(https://ywssp.github.io/ds4-gamepad-viewer-skin/assets/sticks.svg);
 }
