@@ -1,0 +1,25 @@
+.edit.controller.ds4 {
+    background: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/base.svg);
+}
+
+.edit.controller {
+    background: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/base.svg);
+}
+
+.edit.face.ds4 {
+    background: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/face.svg);
+}
+
+.edit.face {
+    position: absolute;
+    background: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/face.svg);
+}
+
+.edit.stick.ds4 {
+    background: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/sticks.svg);
+}
+
+.edit.stick {
+    position: absolute;
+    background: url(https://raw.githubusercontent.com/ywssp/ds4-gamepad-viewer-skin/main/assets/sticks.svg);
+}
